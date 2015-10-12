@@ -1,0 +1,29 @@
+0.000000 - Simulator program starting
+0.000043 - OS: preparing process 1 
+0.000047 - OS: starting process 1 
+0.000054 - Process 1: start processing action 
+0.140531 - Process 1: end processing action 
+0.140588 - Process 1: start hard drive input 
+0.791630 - Process 1: end hard drive input 
+0.791681 - Process 1: start hard drive output 
+1.542415 - Process 1: end hard drive output 
+1.542434 - Process 1: start processing action 
+1.663439 - Process 1: end processing action 
+1.663488 - Process 1: start hard drive output 
+2.214441 - Process 1: end hard drive output 
+2.214461 - Process 1: start processing action 
+2.264903 - Process 1: end processing action 
+2.264922 - Process 1: start hard drive input 
+2.865355 - Process 1: end hard drive input 
+2.865372 - Process 1: start hard drive output 
+3.466345 - Process 1: end hard drive output 
+3.466361 - Process 1: start processing action 
+3.516635 - Process 1: end processing action 
+3.516660 - Process 1: start montior output 
+3.767342 - Process 1: end montior output 
+3.767371 - Process 1: start processing action 
+3.888309 - Process 1: end processing action 
+3.888328 - Process 1: start montior output 
+4.139335 - Process 1: end montior output 
+4.139354 - OS: removing process 1 
+4.139355 - Simulator program ending  

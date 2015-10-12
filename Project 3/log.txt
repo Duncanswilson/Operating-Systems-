@@ -1,0 +1,949 @@
+-1428007936.000000 - Simulator program starting 32 
+0.002691 - OS: preparing process 1 
+0.003997 - OS: starting process 1 
+0.005424 - Process 1 : start keyboard input 
+0.518529 - Process 1 : end keyboard input 
+0.520578 - Process 1 : start hard drive output 
+1.228507 - Process 1 : end hard drive output 
+1.230536 - Process 1 : start processing action 
+1.342605 - Process 1 : end processing action 
+1.345689 - Process 1 : start processing action 
+1.458455 - Process 1 : end processing action 
+1.460219 - Process 1 : start hard drive input 
+2.162611 - Process 1 : end hard drive input 
+2.164498 - OS: removing process 1 
+2.166045 - OS: preparing process 2 
+2.167636 - OS: starting process 2 
+2.169636 - Process 2 : start processing action 
+2.252527 - Process 2 : end processing action 
+2.254666 - Process 2 : start montior output 
+2.456629 - Process 2 : end montior output 
+2.458693 - Process 2 : start keyboard input 
+3.161618 - Process 2 : end keyboard input 
+3.163644 - Process 2 : start processing action 
+3.295469 - Process 2 : end processing action 
+3.297903 - Process 2 : start hard drive output 
+3.600648 - Process 2 : end hard drive output 
+3.602596 - OS: removing process 2 
+3.604177 - OS: preparing process 3 
+3.605516 - OS: starting process 3 
+3.606632 - Process 3 : start hard drive input 
+3.858751 - Process 3 : end hard drive input 
+3.860572 - Process 3 : start processing action 
+3.912716 - Process 3 : end processing action 
+3.914898 - Process 3 : start hard drive output 
+4.167897 - Process 3 : end hard drive output 
+4.170603 - Process 3 : start keyboard input 
+5.673870 - Process 3 : end keyboard input 
+5.676439 - Process 3 : start hard drive output 
+6.178882 - Process 3 : end hard drive output 
+6.180644 - OS: removing process 3 
+6.182311 - OS: preparing process 4 
+6.183626 - OS: starting process 4 
+6.185003 - Process 4 : start processing action 
+6.256908 - Process 4 : end processing action 
+6.259102 - Process 4 : start processing action 
+6.411900 - Process 4 : end processing action 
+6.413259 - Process 4 : start hard drive input 
+7.115305 - Process 4 : end hard drive input 
+7.118311 - Process 4 : start montior output 
+7.246926 - Process 4 : end montior output 
+7.248731 - Process 4 : start processing action 
+7.380949 - Process 4 : end processing action 
+7.383551 - OS: removing process 4 
+7.385540 - OS: preparing process 5 
+7.387234 - OS: starting process 5 
+7.388815 - Process 5 : start keyboard input 
+8.391245 - Process 5 : end keyboard input 
+8.394746 - Process 5 : start montior output 
+8.673064 - Process 5 : end montior output 
+8.675373 - Process 5 : start hard drive input 
+9.177095 - Process 5 : end hard drive input 
+9.179047 - Process 5 : start montior output 
+9.506355 - Process 5 : end montior output 
+9.510264 - Process 5 : start hard drive input 
+10.214172 - Process 5 : end hard drive input 
+10.216201 - OS: removing process 5 
+10.217685 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.002181 - OS: preparing process 1 
+0.003737 - OS: starting process 1 
+0.005331 - Process 1 : start keyboard input 
+0.507399 - Process 1 : end keyboard input 
+0.509213 - Process 1 : start hard drive output 
+1.211702 - Process 1 : end hard drive output 
+1.214803 - Process 1 : start processing action 
+1.328395 - Process 1 : end processing action 
+1.330002 - Process 1 : start processing action 
+1.442579 - Process 1 : end processing action 
+1.445861 - Process 1 : start hard drive input 
+2.149528 - Process 1 : end hard drive input 
+2.151047 - OS: removing process 1 
+2.152182 - OS: preparing process 2 
+2.153262 - OS: starting process 2 
+2.154473 - Process 2 : start processing action 
+2.236432 - Process 2 : end processing action 
+2.238272 - Process 2 : start montior output 
+2.440487 - Process 2 : end montior output 
+2.442268 - Process 2 : start keyboard input 
+3.144715 - Process 2 : end keyboard input 
+3.148033 - Process 2 : start processing action 
+3.280510 - Process 2 : end processing action 
+3.282291 - Process 2 : start hard drive output 
+3.584860 - Process 2 : end hard drive output 
+3.588102 - OS: removing process 2 
+3.590954 - OS: preparing process 3 
+3.593413 - OS: starting process 3 
+3.595940 - Process 3 : start hard drive input 
+3.848792 - Process 3 : end hard drive input 
+3.852367 - Process 3 : start processing action 
+3.905560 - Process 3 : end processing action 
+3.907429 - Process 3 : start hard drive output 
+4.159647 - Process 3 : end hard drive output 
+4.161600 - Process 3 : start keyboard input 
+5.663725 - Process 3 : end keyboard input 
+5.665616 - Process 3 : start hard drive output 
+6.168127 - Process 3 : end hard drive output 
+6.172181 - OS: removing process 3 
+6.175116 - OS: preparing process 4 
+6.177859 - OS: starting process 4 
+6.180156 - Process 4 : start processing action 
+6.252699 - Process 4 : end processing action 
+6.260458 - Process 4 : start processing action 
+6.412721 - Process 4 : end processing action 
+6.414814 - Process 4 : start hard drive input 
+7.116876 - Process 4 : end hard drive input 
+7.118896 - Process 4 : start montior output 
+7.246144 - Process 4 : end montior output 
+7.249469 - Process 4 : start processing action 
+7.382777 - Process 4 : end processing action 
+7.384661 - OS: removing process 4 
+7.386184 - OS: preparing process 5 
+7.387493 - OS: starting process 5 
+7.388939 - Process 5 : start keyboard input 
+8.390939 - Process 5 : end keyboard input 
+8.393036 - Process 5 : start montior output 
+8.669798 - Process 5 : end montior output 
+8.672068 - Process 5 : start hard drive input 
+9.174974 - Process 5 : end hard drive input 
+9.177690 - Process 5 : start montior output 
+9.504963 - Process 5 : end montior output 
+9.506658 - Process 5 : start hard drive input 
+10.209065 - Process 5 : end hard drive input 
+10.210997 - OS: removing process 5 
+10.212617 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.008325 - OS: preparing process 1 
+0.017327 - OS: starting process 1 
+0.020345 - Process 1 : start processing action 
+0.166251 - Process 1 : end processing action 
+0.169461 - Process 1 : start hard drive input 
+0.823498 - Process 1 : end hard drive input 
+0.827136 - Process 1 : start hard drive output 
+1.580341 - Process 1 : end hard drive output 
+1.582140 - Process 1 : start processing action 
+1.704410 - Process 1 : end processing action 
+1.707514 - Process 1 : start hard drive output 
+2.261437 - Process 1 : end hard drive output 
+2.263207 - Process 1 : start processing action 
+2.315391 - Process 1 : end processing action 
+2.317234 - Process 1 : start hard drive input 
+2.919438 - Process 1 : end hard drive input 
+2.921164 - Process 1 : start hard drive output 
+3.523579 - Process 1 : end hard drive output 
+3.526261 - Process 1 : start processing action 
+3.578454 - Process 1 : end processing action 
+3.580256 - Process 1 : start montior output 
+3.832762 - Process 1 : end montior output 
+3.836111 - Process 1 : start processing action 
+3.959486 - Process 1 : end processing action 
+3.961290 - Process 1 : start montior output 
+4.213547 - Process 1 : end montior output 
+4.215221 - OS: removing process 1 
+4.216757 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.001866 - OS: preparing process 1 
+0.003066 - OS: starting process 1 
+0.004312 - Process 1 : start processing action 
+0.146490 - Process 1 : end processing action 
+0.149959 - Process 1 : start hard drive input 
+0.830475 - Process 1 : end hard drive input 
+0.832369 - Process 1 : start hard drive output 
+1.584642 - Process 1 : end hard drive output 
+1.587728 - Process 1 : start processing action 
+1.713037 - Process 1 : end processing action 
+1.714791 - Process 1 : start hard drive output 
+2.266931 - Process 1 : end hard drive output 
+2.270308 - Process 1 : start processing action 
+2.324715 - Process 1 : end processing action 
+2.329009 - Process 1 : start hard drive input 
+2.931580 - Process 1 : end hard drive input 
+2.933283 - Process 1 : start hard drive output 
+3.535992 - Process 1 : end hard drive output 
+3.540139 - Process 1 : start processing action 
+3.592630 - Process 1 : end processing action 
+3.594943 - Process 1 : start montior output 
+3.847752 - Process 1 : end montior output 
+3.850198 - Process 1 : start processing action 
+3.972649 - Process 1 : end processing action 
+3.974559 - Process 1 : start montior output 
+4.228344 - Process 1 : end montior output 
+4.231302 - OS: removing process 1 
+4.233576 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.001893 - OS: preparing process 1 
+0.003851 - OS: starting process 1 
+0.005328 - Process 1 : start processing action 
+0.147197 - Process 1 : end processing action 
+0.149072 - Process 1 : start hard drive input 
+0.801340 - Process 1 : end hard drive input 
+0.803164 - Process 1 : start hard drive output 
+1.555317 - Process 1 : end hard drive output 
+1.557389 - Process 1 : start processing action 
+1.680259 - Process 1 : end processing action 
+1.682310 - Process 1 : start hard drive output 
+2.234360 - Process 1 : end hard drive output 
+2.236324 - Process 1 : start processing action 
+2.288282 - Process 1 : end processing action 
+2.290018 - Process 1 : start hard drive input 
+2.892400 - Process 1 : end hard drive input 
+2.894286 - Process 1 : start hard drive output 
+3.496401 - Process 1 : end hard drive output 
+3.498533 - Process 1 : start processing action 
+3.550385 - Process 1 : end processing action 
+3.552341 - Process 1 : start montior output 
+3.804450 - Process 1 : end montior output 
+3.806049 - Process 1 : start processing action 
+3.928388 - Process 1 : end processing action 
+3.930077 - Process 1 : start montior output 
+4.182504 - Process 1 : end montior output 
+4.184444 - OS: removing process 1 
+4.186111 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.002491 - OS: preparing process 1 
+0.004079 - OS: starting process 1 
+0.005754 - Process 1 : start processing action 
+0.147471 - Process 1 : end processing action 
+0.149443 - Process 1 : start hard drive input 
+0.801593 - Process 1 : end hard drive input 
+0.803324 - Process 1 : start hard drive output 
+1.555752 - Process 1 : end hard drive output 
+1.557738 - Process 1 : start processing action 
+1.679672 - Process 1 : end processing action 
+1.681557 - Process 1 : start hard drive output 
+2.233739 - Process 1 : end hard drive output 
+2.235536 - Process 1 : start processing action 
+2.287694 - Process 1 : end processing action 
+2.289503 - Process 1 : start hard drive input 
+2.891811 - Process 1 : end hard drive input 
+2.893738 - Process 1 : start hard drive output 
+3.495876 - Process 1 : end hard drive output 
+3.498226 - Process 1 : start processing action 
+3.550811 - Process 1 : end processing action 
+3.552491 - Process 1 : start montior output 
+3.804916 - Process 1 : end montior output 
+3.806977 - Process 1 : start processing action 
+3.928845 - Process 1 : end processing action 
+3.930919 - Process 1 : start montior output 
+4.182905 - Process 1 : end montior output 
+4.184726 - OS: removing process 1 
+4.186394 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.002322 - OS: preparing process 1 
+0.003937 - OS: starting process 1 
+0.005367 - Process 1 : start processing action 
+0.146751 - Process 1 : end processing action 
+0.148596 - Process 1 : start hard drive input 
+0.800970 - Process 1 : end hard drive input 
+0.808775 - Process 1 : start hard drive output 
+1.560960 - Process 1 : end hard drive output 
+1.563336 - Process 1 : start processing action 
+1.685873 - Process 1 : end processing action 
+1.687759 - Process 1 : start hard drive output 
+2.240005 - Process 1 : end hard drive output 
+2.241916 - Process 1 : start processing action 
+2.293941 - Process 1 : end processing action 
+2.295673 - Process 1 : start hard drive input 
+2.898057 - Process 1 : end hard drive input 
+2.900002 - Process 1 : start hard drive output 
+3.545319 - Process 1 : end hard drive output 
+3.637341 - Process 1 : start processing action 
+3.691067 - Process 1 : end processing action 
+3.693138 - Process 1 : start montior output 
+3.946185 - Process 1 : end montior output 
+3.948035 - Process 1 : start processing action 
+4.070083 - Process 1 : end processing action 
+4.071842 - Process 1 : start montior output 
+4.324252 - Process 1 : end montior output 
+4.326157 - OS: removing process 1 
+4.327465 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.002281 - OS: preparing process 1 
+0.003990 - OS: starting process 1 
+0.005213 - Process 1 : start processing action 
+0.146847 - Process 1 : end processing action 
+0.148777 - Process 1 : start hard drive input 
+0.800975 - Process 1 : end hard drive input 
+0.802765 - Process 1 : start hard drive output 
+1.554972 - Process 1 : end hard drive output 
+1.557011 - Process 1 : start processing action 
+1.679037 - Process 1 : end processing action 
+1.680968 - Process 1 : start hard drive output 
+2.234092 - Process 1 : end hard drive output 
+2.236041 - Process 1 : start processing action 
+2.287981 - Process 1 : end processing action 
+2.289791 - Process 1 : start hard drive input 
+2.892102 - Process 1 : end hard drive input 
+2.894116 - Process 1 : start hard drive output 
+3.497130 - Process 1 : end hard drive output 
+3.499671 - Process 1 : start processing action 
+3.552095 - Process 1 : end processing action 
+3.553874 - Process 1 : start montior output 
+3.806231 - Process 1 : end montior output 
+3.808191 - Process 1 : start processing action 
+3.931104 - Process 1 : end processing action 
+3.933065 - Process 1 : start montior output 
+4.185207 - Process 1 : end montior output 
+4.187029 - OS: removing process 1 
+4.188641 - Simulator program ending 32 
+0.000000 - Simulator program starting 32 
+0.002213 - OS: preparing process 1 
+0.003792 - OS: starting process 1 
+0.005140 - Process 1 : start processing action 
+0.146821 - Process 1 : end processing action 
+0.148840 - Process 1 : start hard drive input 
+0.801973 - Process 1 : end hard drive input 
+0.803845 - Process 1 : start hard drive output 
+1.555948 - Process 1 : end hard drive output 
+1.557852 - Process 1 : start processing action 
+1.679937 - Process 1 : end processing action 
+1.681664 - Process 1 : start hard drive output 
+2.235027 - Process 1 : end hard drive output 
+2.237036 - Process 1 : start processing action 
+2.288974 - Process 1 : end processing action 
+2.290804 - Process 1 : start hard drive input 
+2.893115 - Process 1 : end hard drive input 
+2.895287 - Process 1 : start hard drive output 
+3.497132 - Process 1 : end hard drive output 
+3.499557 - Process 1 : start processing action 
+3.552098 - Process 1 : end processing action 
+3.553836 - Process 1 : start montior output 
+3.806198 - Process 1 : end montior output 
+3.808184 - Process 1 : start processing action 
+3.930119 - Process 1 : end processing action 
+3.931894 - Process 1 : start montior output 
+4.184175 - Process 1 : end montior output 
+4.186129 - OS: removing process 1 
+4.187855 - Simulator program ending 32 
+0.000000 - Simulator program starting    
+0.002295 - OS: preparing process 1 
+0.003787 - OS: starting process 1 
+0.005251 - Process 1 : start processing action 
+0.147056 - Process 1 : end processing action 
+0.148780 - Process 1 : start hard drive input 
+0.801186 - Process 1 : end hard drive input 
+0.803096 - Process 1 : start hard drive output 
+1.555189 - Process 1 : end hard drive output 
+1.556999 - Process 1 : start processing action 
+1.679175 - Process 1 : end processing action 
+1.681089 - Process 1 : start hard drive output 
+2.234242 - Process 1 : end hard drive output 
+2.236073 - Process 1 : start processing action 
+2.288204 - Process 1 : end processing action 
+2.289983 - Process 1 : start hard drive input 
+2.892343 - Process 1 : end hard drive input 
+2.894338 - Process 1 : start hard drive output 
+3.496351 - Process 1 : end hard drive output 
+3.498519 - Process 1 : start processing action 
+3.551275 - Process 1 : end processing action 
+3.553028 - Process 1 : start montior output 
+3.805387 - Process 1 : end montior output 
+3.807314 - Process 1 : start processing action 
+3.929307 - Process 1 : end processing action 
+3.931030 - Process 1 : start montior output 
+4.183397 - Process 1 : end montior output 
+4.185214 - OS: removing process 1 
+4.186461 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.002117 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.002227 - OS: preparing process 1 
+0.003843 - OS: starting process 1 
+0.005479 - Process 1 : start keyboard input 
+0.507058 - Process 1 : end keyboard input 
+0.509151 - Process 1 : start hard drive output 
+1.212062 - Process 1 : end hard drive output 
+1.214105 - Process 1 : start processing action 
+1.327024 - Process 1 : end processing action 
+1.329069 - Process 1 : start processing action 
+1.441021 - Process 1 : end processing action 
+1.443069 - Process 1 : start hard drive input 
+2.145141 - Process 1 : end hard drive input 
+2.147104 - OS: removing process 1 
+2.148867 - OS: preparing process 2 
+2.150725 - OS: starting process 2 
+2.152303 - Process 2 : start processing action 
+2.234102 - Process 2 : end processing action 
+2.236130 - Process 2 : start montior output 
+2.438155 - Process 2 : end montior output 
+2.440070 - Process 2 : start keyboard input 
+3.142224 - Process 2 : end keyboard input 
+3.144645 - Process 2 : start processing action 
+3.277199 - Process 2 : end processing action 
+3.279301 - Process 2 : start hard drive output 
+3.582262 - Process 2 : end hard drive output 
+3.584151 - OS: removing process 2 
+3.586041 - OS: preparing process 3 
+3.587801 - OS: starting process 3 
+3.589575 - Process 3 : start hard drive input 
+3.842434 - Process 3 : end hard drive input 
+3.844382 - Process 3 : start processing action 
+3.897259 - Process 3 : end processing action 
+3.899160 - Process 3 : start hard drive output 
+4.151315 - Process 3 : end hard drive output 
+4.153404 - Process 3 : start keyboard input 
+5.656428 - Process 3 : end keyboard input 
+5.658360 - Process 3 : start hard drive output 
+6.160467 - Process 3 : end hard drive output 
+6.162820 - OS: removing process 3 
+6.164492 - OS: preparing process 4 
+6.166092 - OS: starting process 4 
+6.167582 - Process 4 : start processing action 
+6.239070 - Process 4 : end processing action 
+6.241260 - Process 4 : start processing action 
+6.393451 - Process 4 : end processing action 
+6.395336 - Process 4 : start hard drive input 
+7.097555 - Process 4 : end hard drive input 
+7.099593 - Process 4 : start montior output 
+7.226542 - Process 4 : end montior output 
+7.228214 - Process 4 : start processing action 
+7.360525 - Process 4 : end processing action 
+7.362316 - OS: removing process 4 
+7.363972 - OS: preparing process 5 
+7.365694 - OS: starting process 5 
+7.367321 - Process 5 : start keyboard input 
+8.369669 - Process 5 : end keyboard input 
+8.371747 - Process 5 : start montior output 
+8.648764 - Process 5 : end montior output 
+8.650577 - Process 5 : start hard drive input 
+9.152711 - Process 5 : end hard drive input 
+9.154444 - Process 5 : start montior output 
+9.481709 - Process 5 : end montior output 
+9.483816 - Process 5 : start hard drive input 
+10.185890 - Process 5 : end hard drive input 
+10.187827 - OS: removing process 5 
+10.189561 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000000 - OS: preparing process 1 
+0.000000 - OS: starting process 1 
+0.000000 - Process 1 : start keyboard input 
+0.050000 - Process 1 : end keyboard input 
+0.050000 - Process 1 : start hard drive output 
+0.190000 - Process 1 : end hard drive output 
+0.190000 - Process 1 : start processing action 
+0.300000 - Process 1 : end processing action 
+0.300000 - Process 1 : start processing action 
+0.410000 - Process 1 : end processing action 
+0.410000 - Process 1 : start hard drive input 
+0.550000 - Process 1 : end hard drive input 
+0.550000 - OS: removing process 1 
+0.550000 - OS: preparing process 2 
+0.550000 - OS: starting process 2 
+0.550000 - Process 2 : start processing action 
+0.630000 - Process 2 : end processing action 
+0.630000 - Process 2 : start montior output 
+0.710000 - Process 2 : end montior output 
+0.710000 - Process 2 : start keyboard input 
+0.780000 - Process 2 : end keyboard input 
+0.780000 - Process 2 : start processing action 
+0.910000 - Process 2 : end processing action 
+0.910000 - Process 2 : start hard drive output 
+0.970000 - Process 2 : end hard drive output 
+0.970000 - OS: removing process 2 
+0.970000 - OS: preparing process 3 
+0.970000 - OS: starting process 3 
+0.970000 - Process 3 : start hard drive input 
+1.020000 - Process 3 : end hard drive input 
+1.020000 - Process 3 : start processing action 
+1.070000 - Process 3 : end processing action 
+1.070000 - Process 3 : start hard drive output 
+1.120000 - Process 3 : end hard drive output 
+1.120000 - Process 3 : start keyboard input 
+1.270000 - Process 3 : end keyboard input 
+1.270000 - Process 3 : start hard drive output 
+1.370000 - Process 3 : end hard drive output 
+1.370000 - OS: removing process 3 
+1.370000 - OS: preparing process 4 
+1.370000 - OS: starting process 4 
+1.370000 - Process 4 : start processing action 
+1.440000 - Process 4 : end processing action 
+1.440000 - Process 4 : start processing action 
+1.590000 - Process 4 : end processing action 
+1.590000 - Process 4 : start hard drive input 
+1.730000 - Process 4 : end hard drive input 
+1.730000 - Process 4 : start montior output 
+1.780000 - Process 4 : end montior output 
+1.780000 - Process 4 : start processing action 
+1.910000 - Process 4 : end processing action 
+1.910000 - OS: removing process 4 
+1.910000 - OS: preparing process 5 
+1.910000 - OS: starting process 5 
+1.910000 - Process 5 : start keyboard input 
+2.010000 - Process 5 : end keyboard input 
+2.010000 - Process 5 : start montior output 
+2.120000 - Process 5 : end montior output 
+2.120000 - Process 5 : start hard drive input 
+2.220000 - Process 5 : end hard drive input 
+2.220000 - Process 5 : start montior output 
+2.350000 - Process 5 : end montior output 
+2.350000 - Process 5 : start hard drive input 
+2.490000 - Process 5 : end hard drive input 
+2.490000 - OS: removing process 5 
+2.490000 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000000 - OS: preparing process 1 
+0.000000 - OS: starting process 1 
+0.000000 - Process 1 : start keyboard input 
+0.050000 - Process 1 : end keyboard input 
+0.050000 - Process 1 : start hard drive output 
+0.190000 - Process 1 : end hard drive output 
+0.190000 - Process 1 : start processing action 
+0.300000 - Process 1 : end processing action 
+0.300000 - Process 1 : start processing action 
+0.410000 - Process 1 : end processing action 
+0.410000 - Process 1 : start hard drive input 
+0.550000 - Process 1 : end hard drive input 
+0.550000 - OS: removing process 1 
+0.550000 - OS: preparing process 2 
+0.550000 - OS: starting process 2 
+0.550000 - Process 2 : start processing action 
+0.630000 - Process 2 : end processing action 
+0.630000 - Process 2 : start montior output 
+0.710000 - Process 2 : end montior output 
+0.710000 - Process 2 : start keyboard input 
+0.780000 - Process 2 : end keyboard input 
+0.780000 - Process 2 : start processing action 
+0.910000 - Process 2 : end processing action 
+0.910000 - Process 2 : start hard drive output 
+0.970000 - Process 2 : end hard drive output 
+0.970000 - OS: removing process 2 
+0.970000 - OS: preparing process 3 
+0.970000 - OS: starting process 3 
+0.970000 - Process 3 : start hard drive input 
+1.020000 - Process 3 : end hard drive input 
+1.020000 - Process 3 : start processing action 
+1.070000 - Process 3 : end processing action 
+1.070000 - Process 3 : start hard drive output 
+1.120000 - Process 3 : end hard drive output 
+1.120000 - Process 3 : start keyboard input 
+1.270000 - Process 3 : end keyboard input 
+1.270000 - Process 3 : start hard drive output 
+1.370000 - Process 3 : end hard drive output 
+1.370000 - OS: removing process 3 
+1.370000 - OS: preparing process 4 
+1.370000 - OS: starting process 4 
+1.370000 - Process 4 : start processing action 
+1.440000 - Process 4 : end processing action 
+1.440000 - Process 4 : start processing action 
+1.590000 - Process 4 : end processing action 
+1.590000 - Process 4 : start hard drive input 
+1.730000 - Process 4 : end hard drive input 
+1.730000 - Process 4 : start montior output 
+1.780000 - Process 4 : end montior output 
+1.780000 - Process 4 : start processing action 
+1.910000 - Process 4 : end processing action 
+1.910000 - OS: removing process 4 
+1.910000 - OS: preparing process 5 
+1.910000 - OS: starting process 5 
+1.910000 - Process 5 : start keyboard input 
+2.010000 - Process 5 : end keyboard input 
+2.010000 - Process 5 : start montior output 
+2.120000 - Process 5 : end montior output 
+2.120000 - Process 5 : start hard drive input 
+2.220000 - Process 5 : end hard drive input 
+2.220000 - Process 5 : start montior output 
+2.350000 - Process 5 : end montior output 
+2.350000 - Process 5 : start hard drive input 
+2.490000 - Process 5 : end hard drive input 
+2.490000 - OS: removing process 5 
+2.490000 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000000 - OS: preparing process 1 
+0.000000 - OS: starting process 1 
+0.000000 - Process 1 : start keyboard input 
+0.050000 - Process 1 : end keyboard input 
+0.050000 - Process 1 : start hard drive output 
+0.190000 - Process 1 : end hard drive output 
+0.190000 - Process 1 : start processing action 
+0.300000 - Process 1 : end processing action 
+0.300000 - Process 1 : start processing action 
+0.410000 - Process 1 : end processing action 
+0.410000 - Process 1 : start hard drive input 
+0.550000 - Process 1 : end hard drive input 
+0.550000 - OS: removing process 1 
+0.550000 - OS: preparing process 2 
+0.550000 - OS: starting process 2 
+0.550000 - Process 2 : start processing action 
+0.630000 - Process 2 : end processing action 
+0.630000 - Process 2 : start montior output 
+0.710000 - Process 2 : end montior output 
+0.710000 - Process 2 : start keyboard input 
+0.000000 - Simulator program starting    
+0.000000 - OS: preparing process 1 
+0.000000 - OS: starting process 1 
+0.000000 - Process 1 : start keyboard input 
+0.050000 - Process 1 : end keyboard input 
+0.050000 - Process 1 : start hard drive output 
+0.190000 - Process 1 : end hard drive output 
+0.190000 - Process 1 : start processing action 
+0.300000 - Process 1 : end processing action 
+0.300000 - Process 1 : start processing action 
+0.410000 - Process 1 : end processing action 
+0.410000 - Process 1 : start hard drive input 
+0.550000 - Process 1 : end hard drive input 
+0.550000 - OS: removing process 1 
+0.550000 - OS: preparing process 2 
+0.550000 - OS: starting process 2 
+0.550000 - Process 2 : start processing action 
+0.630000 - Process 2 : end processing action 
+0.630000 - Process 2 : start montior output 
+0.710000 - Process 2 : end montior output 
+0.710000 - Process 2 : start keyboard input 
+0.780000 - Process 2 : end keyboard input 
+0.780000 - Process 2 : start processing action 
+0.910000 - Process 2 : end processing action 
+0.910000 - Process 2 : start hard drive output 
+0.970000 - Process 2 : end hard drive output 
+0.970000 - OS: removing process 2 
+0.970000 - OS: preparing process 3 
+0.970000 - OS: starting process 3 
+0.970000 - Process 3 : start hard drive input 
+1.020000 - Process 3 : end hard drive input 
+1.020000 - Process 3 : start processing action 
+1.070000 - Process 3 : end processing action 
+1.070000 - Process 3 : start hard drive output 
+1.120000 - Process 3 : end hard drive output 
+1.120000 - Process 3 : start keyboard input 
+1.270000 - Process 3 : end keyboard input 
+1.270000 - Process 3 : start hard drive output 
+1.370000 - Process 3 : end hard drive output 
+1.370000 - OS: removing process 3 
+1.370000 - OS: preparing process 4 
+1.370000 - OS: starting process 4 
+1.370000 - Process 4 : start processing action 
+1.440000 - Process 4 : end processing action 
+1.440000 - Process 4 : start processing action 
+1.590000 - Process 4 : end processing action 
+1.590000 - Process 4 : start hard drive input 
+1.730000 - Process 4 : end hard drive input 
+1.730000 - Process 4 : start montior output 
+1.780000 - Process 4 : end montior output 
+1.780000 - Process 4 : start processing action 
+1.910000 - Process 4 : end processing action 
+1.910000 - OS: removing process 4 
+1.910000 - OS: preparing process 5 
+1.910000 - OS: starting process 5 
+1.910000 - Process 5 : start keyboard input 
+2.010000 - Process 5 : end keyboard input 
+2.010000 - Process 5 : start montior output 
+2.120000 - Process 5 : end montior output 
+2.120000 - Process 5 : start hard drive input 
+2.220000 - Process 5 : end hard drive input 
+2.220000 - Process 5 : start montior output 
+2.350000 - Process 5 : end montior output 
+2.350000 - Process 5 : start hard drive input 
+2.490000 - Process 5 : end hard drive input 
+2.490000 - OS: removing process 5 
+2.490000 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000000 - OS: preparing process 1 
+0.000000 - OS: starting process 1 
+0.000000 - Process 1 : start keyboard input 
+5.000000 - Process 1 : end keyboard input 
+5.000000 - Process 1 : start hard drive output 
+5.700000 - Process 1 : end hard drive output 
+5.700000 - Process 1 : start processing action 
+5.810000 - Process 1 : end processing action 
+5.810000 - Process 1 : start processing action 
+5.920000 - Process 1 : end processing action 
+5.920000 - Process 1 : start hard drive input 
+6.620000 - Process 1 : end hard drive input 
+6.620000 - OS: removing process 1 
+6.620000 - OS: preparing process 2 
+6.620000 - OS: starting process 2 
+6.620000 - Process 2 : start processing action 
+6.700000 - Process 2 : end processing action 
+6.700000 - Process 2 : start montior output 
+6.900000 - Process 2 : end montior output 
+6.900000 - Process 2 : start keyboard input 
+13.900000 - Process 2 : end keyboard input 
+13.900000 - Process 2 : start processing action 
+14.030000 - Process 2 : end processing action 
+14.030000 - Process 2 : start hard drive output 
+14.330000 - Process 2 : end hard drive output 
+14.330000 - OS: removing process 2 
+14.330000 - OS: preparing process 3 
+14.330000 - OS: starting process 3 
+14.330000 - Process 3 : start hard drive input 
+14.580000 - Process 3 : end hard drive input 
+14.580000 - Process 3 : start processing action 
+14.630000 - Process 3 : end processing action 
+14.630000 - Process 3 : start hard drive output 
+14.880000 - Process 3 : end hard drive output 
+14.880000 - Process 3 : start keyboard input 
+29.880001 - Process 3 : end keyboard input 
+29.880001 - Process 3 : start hard drive output 
+30.380001 - Process 3 : end hard drive output 
+30.380001 - OS: removing process 3 
+30.380001 - OS: preparing process 4 
+30.380001 - OS: starting process 4 
+30.380001 - Process 4 : start processing action 
+30.450001 - Process 4 : end processing action 
+30.450001 - Process 4 : start processing action 
+30.600000 - Process 4 : end processing action 
+30.600000 - Process 4 : start hard drive input 
+31.300001 - Process 4 : end hard drive input 
+31.300001 - Process 4 : start montior output 
+31.425001 - Process 4 : end montior output 
+31.425001 - Process 4 : start processing action 
+31.555000 - Process 4 : end processing action 
+31.555000 - OS: removing process 4 
+31.555000 - OS: preparing process 5 
+31.555000 - OS: starting process 5 
+31.555000 - Process 5 : start keyboard input 
+41.555000 - Process 5 : end keyboard input 
+41.555000 - Process 5 : start montior output 
+41.830002 - Process 5 : end montior output 
+41.830002 - Process 5 : start hard drive input 
+42.330002 - Process 5 : end hard drive input 
+42.330002 - Process 5 : start montior output 
+42.655003 - Process 5 : end montior output 
+42.655003 - Process 5 : start hard drive input 
+43.355003 - Process 5 : end hard drive input 
+43.355003 - OS: removing process 5 
+43.355003 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000000 - OS: preparing process 1 
+0.000000 - OS: starting process 1 
+0.000000 - Process 1 : start keyboard input 
+5.000000 - Process 1 : end keyboard input 
+5.000000 - Process 1 : start hard drive output 
+5.700000 - Process 1 : end hard drive output 
+5.700000 - Process 1 : start processing action 
+5.810000 - Process 1 : end processing action 
+5.810000 - Process 1 : start processing action 
+5.920000 - Process 1 : end processing action 
+5.920000 - Process 1 : start hard drive input 
+6.620000 - Process 1 : end hard drive input 
+6.620000 - OS: removing process 1 
+6.620000 - OS: preparing process 2 
+6.620000 - OS: starting process 2 
+6.620000 - Process 2 : start processing action 
+6.700000 - Process 2 : end processing action 
+6.700000 - Process 2 : start montior output 
+6.900000 - Process 2 : end montior output 
+6.900000 - Process 2 : start keyboard input 
+13.900000 - Process 2 : end keyboard input 
+13.900000 - Process 2 : start processing action 
+14.030000 - Process 2 : end processing action 
+14.030000 - Process 2 : start hard drive output 
+14.330000 - Process 2 : end hard drive output 
+14.330000 - OS: removing process 2 
+14.330000 - OS: preparing process 3 
+14.330000 - OS: starting process 3 
+14.330000 - Process 3 : start hard drive input 
+14.580000 - Process 3 : end hard drive input 
+14.580000 - Process 3 : start processing action 
+14.630000 - Process 3 : end processing action 
+14.630000 - Process 3 : start hard drive output 
+14.880000 - Process 3 : end hard drive output 
+14.880000 - Process 3 : start keyboard input 
+29.880001 - Process 3 : end keyboard input 
+29.880001 - Process 3 : start hard drive output 
+30.380001 - Process 3 : end hard drive output 
+30.380001 - OS: removing process 3 
+30.380001 - OS: preparing process 4 
+30.380001 - OS: starting process 4 
+30.380001 - Process 4 : start processing action 
+30.450001 - Process 4 : end processing action 
+30.450001 - Process 4 : start processing action 
+30.600000 - Process 4 : end processing action 
+30.600000 - Process 4 : start hard drive input 
+31.300001 - Process 4 : end hard drive input 
+31.300001 - Process 4 : start montior output 
+31.425001 - Process 4 : end montior output 
+31.425001 - Process 4 : start processing action 
+31.555000 - Process 4 : end processing action 
+31.555000 - OS: removing process 4 
+31.555000 - OS: preparing process 5 
+31.555000 - OS: starting process 5 
+31.555000 - Process 5 : start keyboard input 
+41.555000 - Process 5 : end keyboard input 
+41.555000 - Process 5 : start montior output 
+41.830002 - Process 5 : end montior output 
+41.830002 - Process 5 : start hard drive input 
+42.330002 - Process 5 : end hard drive input 
+42.330002 - Process 5 : start montior output 
+42.655003 - Process 5 : end montior output 
+42.655003 - Process 5 : start hard drive input 
+43.355003 - Process 5 : end hard drive input 
+43.355003 - OS: removing process 5 
+43.355003 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000091 - OS: preparing process 1 
+0.000127 - OS: starting process 1 
+0.000157 - Process 1 : start keyboard input 
+5.000415 - Process 1 : end keyboard input 
+5.000651 - Process 1 : start hard drive output 
+5.701024 - Process 1 : end hard drive output 
+5.701312 - Process 1 : start processing action 
+5.811534 - Process 1 : end processing action 
+5.811732 - Process 1 : start processing action 
+5.921873 - Process 1 : end processing action 
+5.921985 - Process 1 : start hard drive input 
+6.622233 - Process 1 : end hard drive input 
+6.622499 - OS: removing process 1 
+6.622598 - OS: preparing process 2 
+6.622682 - OS: starting process 2 
+6.622767 - Process 2 : start processing action 
+6.703002 - Process 2 : end processing action 
+6.703296 - Process 2 : start montior output 
+6.903741 - Process 2 : end montior output 
+6.903862 - Process 2 : start keyboard input 
+13.904136 - Process 2 : end keyboard input 
+13.904224 - Process 2 : start processing action 
+14.034329 - Process 2 : end processing action 
+14.034623 - Process 2 : start hard drive output 
+14.334929 - Process 2 : end hard drive output 
+14.335107 - OS: removing process 2 
+14.335196 - OS: preparing process 3 
+14.335276 - OS: starting process 3 
+14.335359 - Process 3 : start hard drive input 
+14.585668 - Process 3 : end hard drive input 
+14.585797 - Process 3 : start processing action 
+14.635897 - Process 3 : end processing action 
+14.636140 - Process 3 : start hard drive output 
+14.886936 - Process 3 : end hard drive output 
+14.887115 - Process 3 : start keyboard input 
+29.887325 - Process 3 : end keyboard input 
+29.887514 - Process 3 : start hard drive output 
+30.387793 - Process 3 : end hard drive output 
+30.387968 - OS: removing process 3 
+30.387997 - OS: preparing process 4 
+30.388018 - OS: starting process 4 
+30.388039 - Process 4 : start processing action 
+30.458160 - Process 4 : end processing action 
+30.458313 - Process 4 : start processing action 
+30.608454 - Process 4 : end processing action 
+30.608599 - Process 4 : start hard drive input 
+31.308901 - Process 4 : end hard drive input 
+31.309145 - Process 4 : start montior output 
+31.434523 - Process 4 : end montior output 
+31.434710 - Process 4 : start processing action 
+31.564890 - Process 4 : end processing action 
+31.565178 - OS: removing process 4 
+31.565290 - OS: preparing process 5 
+31.565310 - OS: starting process 5 
+31.565331 - Process 5 : start keyboard input 
+41.565582 - Process 5 : end keyboard input 
+41.565830 - Process 5 : start montior output 
+41.841087 - Process 5 : end montior output 
+41.841248 - Process 5 : start hard drive input 
+42.341461 - Process 5 : end hard drive input 
+42.341618 - Process 5 : start montior output 
+42.666882 - Process 5 : end montior output 
+42.667259 - Process 5 : start hard drive input 
+43.367535 - Process 5 : end hard drive input 
+43.367764 - OS: removing process 5 
+43.367847 - Simulator program ending    
+0.000000 - Simulator program starting    
+0.000586 - OS: preparing process 1 
+0.000863 - OS: starting process 1 
+0.001142 - Process 1 : start keyboard input 
+0.000000 - Simulator program starting 126 
+0.000074 - OS: preparing process 1 
+0.000115 - OS: starting process 1 
+0.000155 - Process 1 : start processing action 
+0.140337 - Process 1 : end processing action 
+0.140493 - Process 1 : start hard drive input 
+0.790897 - Process 1 : end hard drive input 
+0.791049 - Process 1 : start hard drive output 
+1.541362 - Process 1 : end hard drive output 
+1.541610 - Process 1 : start processing action 
+1.661823 - Process 1 : end processing action 
+1.662001 - Process 1 : start hard drive output 
+2.212129 - Process 1 : end hard drive output 
+2.212245 - Process 1 : start processing action 
+2.262400 - Process 1 : end processing action 
+2.262668 - Process 1 : start hard drive input 
+2.863037 - Process 1 : end hard drive input 
+2.863303 - Process 1 : start hard drive output 
+3.463525 - Process 1 : end hard drive output 
+3.463725 - Process 1 : start processing action 
+3.513913 - Process 1 : end processing action 
+3.514194 - Process 1 : start montior output 
+3.764574 - Process 1 : end montior output 
+3.765087 - Process 1 : start processing action 
+3.885353 - Process 1 : end processing action 
+3.885450 - Process 1 : start montior output 
+4.135689 - Process 1 : end montior output 
+4.135853 - OS: removing process 1 
+4.135876 - Simulator program ending 126 
+0.000000 - Simulator program starting     
+0.000090 - OS: preparing process 1 
+0.000123 - OS: starting process 1 
+0.000152 - Process 1 : start processing action 
+0.140256 - Process 1 : end processing action 
+0.140506 - Process 1 : start hard drive input 
+0.790720 - Process 1 : end hard drive input 
+0.791000 - Process 1 : start hard drive output 
+1.541295 - Process 1 : end hard drive output 
+1.541539 - Process 1 : start processing action 
+1.661699 - Process 1 : end processing action 
+1.661927 - Process 1 : start hard drive output 
+2.212231 - Process 1 : end hard drive output 
+2.212361 - Process 1 : start processing action 
+2.262457 - Process 1 : end processing action 
+2.262585 - Process 1 : start hard drive input 
+2.862858 - Process 1 : end hard drive input 
+2.863180 - Process 1 : start hard drive output 
+3.463531 - Process 1 : end hard drive output 
+3.463812 - Process 1 : start processing action 
+3.513978 - Process 1 : end processing action 
+3.514272 - Process 1 : start montior output 
+3.764668 - Process 1 : end montior output 
+3.764807 - Process 1 : start processing action 
+3.884949 - Process 1 : end processing action 
+3.885100 - Process 1 : start montior output 
+4.135342 - Process 1 : end montior output 
+4.135530 - OS: removing process 1 
+4.135602 - Simulator program ending     
+0.000000 - Simulator program starting     
+0.000176 - OS: preparing process 1 
+0.000250 - OS: starting process 1 
+0.000313 - Process 1 : start processing action 
+0.140455 - Process 1 : end processing action 
+0.140627 - Process 1 : start hard drive input 
+0.790967 - Process 1 : end hard drive input 
+0.791220 - Process 1 : start hard drive output 
+1.541573 - Process 1 : end hard drive output 
+1.541698 - Process 1 : start processing action 
+1.661823 - Process 1 : end processing action 
+1.661968 - Process 1 : start hard drive output 
+2.212167 - Process 1 : end hard drive output 
+2.212271 - Process 1 : start processing action 
+2.262380 - Process 1 : end processing action 
+2.262613 - Process 1 : start hard drive input 
+2.862964 - Process 1 : end hard drive input 
+2.863236 - Process 1 : start hard drive output 
+3.463647 - Process 1 : end hard drive output 
+3.463953 - Process 1 : start processing action 
+3.514125 - Process 1 : end processing action 
+3.514343 - Process 1 : start montior output 
+3.764699 - Process 1 : end montior output 
+3.764851 - Process 1 : start processing action 
+3.884991 - Process 1 : end processing action 
+3.885211 - Process 1 : start montior output 
+4.135660 - Process 1 : end montior output 
+4.135890 - OS: removing process 1 
+4.135954 - Simulator program ending     

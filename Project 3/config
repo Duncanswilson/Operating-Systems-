@@ -1,0 +1,12 @@
+Start Simulator Configuration File
+Version/Phase: 2.0
+File Path: /home/duncan/Desktop/Project_3/yo2
+CPU Scheduling: SRTF
+Processor cycle time (msec): 10
+Monitor display time (msec): 25
+Hard drive cycle time (msec): 50
+Printer cycle time (msec): 500
+Keyboard cycle time (msec): 1000
+Log: Log to Both
+Log File Path: /home/duncan/Desktop/Project_3/log.txt
+End Simulator Configuration File

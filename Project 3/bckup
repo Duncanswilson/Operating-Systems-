@@ -1,0 +1,43 @@
+    if (Q->rear == NULL)
+    {
+        Q->rear = (PCBnode*)malloc(1*sizeof(PCBnode));
+        Q->rear->ptr = NULL;
+        Q->rear->process = *data;
+        Q->front = Q->rear;
+    }
+    else
+    {
+        temp = (PCBnode*)malloc(1*sizeof(PCBnode));
+        temp->process = *data;
+        while(temp->process.processID > currentNode->process.processID && currentNode != Q->rear){
+        	currentNode = currentNode->ptr; 
+        }
+        if(Q->front != Q->rear){
+        	if(currentNode == Q->front){
+        		temp->ptr = currentNode; 
+        		Q->front = temp;         		
+        	}
+        	else if(currentNode != Q->rear){
+        		printf("Process ID for case 2: %d \n", currentNode->process.processID);
+        		temp->ptr = currentNode->ptr; 
+        		currentNode->ptr = temp; 
+        	}
+        	else{
+        		temp->ptr = currentNode->ptr; 
+        		currentNode->ptr = temp; 
+        		Q->rear = temp;
+        	}
+
+        }
+        // 1 item in queue cases:  
+        else{
+        	if(currentNode == Q->rear){
+        	    temp->ptr = NULL; 
+        	    Q->front->ptr = Q->rear = temp; 
+        	} 
+        	else{
+        		temp->ptr = currentNode; 
+        		Q->front = temp; 
+        	}
+        }
+    }

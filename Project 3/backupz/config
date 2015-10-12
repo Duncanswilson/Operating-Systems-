@@ -1,0 +1,12 @@
+Start Simulator Configuration File
+Version/Phase: 2.0
+File Path: /nfs/home/duncanw/Desktop/yo2
+CPU Scheduling: FIFO
+Processor cycle time (msec): 10
+Monitor display time (msec): 25
+Hard drive cycle time (msec): 50
+Printer cycle time (msec): 500
+Keyboard cycle time (msec): 100
+Log: Log to Both
+Log File Path: /nfs/home/duncanw/Desktop/project_3/log.txt
+End Simulator Configuration File
